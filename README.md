@@ -1,2 +1,2 @@
 # Statistical-Analysis
-The purpose of this Analysis is to investigate the factors surrounding Road Traffic Accidents (RTAs)
+The	purpose	of this analysis is to investigate	the	factors	surrounding	Road	Traﬃc	Accidents	(RTAs),	in	an	aOempt	to	determine	whether there	are	any	meaningful	relationships	of interest, or	areas	that would warrant further investigation. The	data are based on	personal injury	RTAs	on	public	roads	during	2016	which	were	reported	to	the	police	and	subsequently	recorded	using	the	STATS19	accident	reporting	form [1].
